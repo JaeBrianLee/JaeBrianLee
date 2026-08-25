@@ -33,13 +33,13 @@ Case studies, screenshots, and engineering notes for each project are on **[jaeb
 
 ## Tech stack
 
-| | |
+| Area | Tools |
 | --- | --- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,go,swift" alt="TypeScript, JavaScript, Python, Go, Swift" height="36"> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,vite,d3" alt="React, Next.js, Astro, Tailwind, Vite, D3" height="36"> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma" alt="Node.js, Express, GraphQL, Prisma" height="36"> |
 | **Cloud & data** | <img src="https://skillicons.dev/icons?i=aws,cloudflare,postgres,supabase,dynamodb,sqlite,docker,githubactions" alt="AWS, Cloudflare, PostgreSQL, Supabase, DynamoDB, SQLite, Docker, GitHub Actions" height="36"> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=swift,apple" alt="Swift, Apple" height="36"> |
-| **Testing** | <img src="https://skillicons.dev/icons?i=jest,vitest,playwright" alt="Jest, Vitest, Playwright" height="36"> |
+| **Testing** | <img src="https://skillicons.dev/icons?i=jest,vitest" alt="Jest, Vitest" height="36"> |
 
-Also: Hono, Drizzle, Stripe Connect, Cardano / CIP-30, Pipecat, OpenAI Responses, Athena, Fastlane, XCTest.
+Also: Playwright, Hono, Drizzle, Stripe Connect, Cardano / CIP-30, Pipecat, OpenAI Responses, Athena, Fastlane, XCTest.
