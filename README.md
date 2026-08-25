@@ -2,7 +2,7 @@
 
 Full-stack software engineer who loves turning ambitious ideas into thoughtful, production-ready products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jaebrianlee.netlify.app-111827?style=flat-square&logo=netlify&logoColor=white)](https://jaebrianlee.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jaebrian.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://jaebrian.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brian--jaekook--lee-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-jaekook-lee/)
 
 I design, build, test, and ship software end to end. My work spans AI voice systems, enterprise education, commerce platforms, cloud and data infrastructure, developer tools, iOS products, and Web3.
@@ -23,4 +23,5 @@ I design, build, test, and ship software end to end. My work spans AI voice syst
 
 I use **Codex and Claude agent workflows** to automate repetitive work, strengthen testing and verification, and take on larger projects while keeping human judgment responsible for the final result.
 
-Explore the projects, screenshots, and engineering notes on my **[portfolio](https://jaebrianlee.netlify.app)**.
+Explore the projects, screenshots, and engineering notes on my **[portfolio](https://jaebrian.com)**.
+
