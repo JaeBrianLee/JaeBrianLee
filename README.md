@@ -13,7 +13,7 @@
 - Currently at **VantaSoft**, doing hands-on engineering across **Amira Learning** (enterprise EdTech), **Telvana** (AI voice agents), and **CardSync** (trading-card commerce).
 - Previously at **Blink Labs** building Cardano products, wallet and rewards flows, and edge infrastructure.
 - Co-created **Zusty**, a Zustand DevTools extension with 128 stars and an official ecosystem listing.
-- I use Claude and Codex agent workflows to automate repetitive work and strengthen testing, with human judgment responsible for the final result.
+- I use Claude and Codex agent workflows for repetitive work and test coverage, and I make the final call on what ships.
 
 This is my work account. Open-source and side projects live on [@JaeBrian](https://github.com/JaeBrian).
 
